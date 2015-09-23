@@ -1,0 +1,5 @@
+D:\softuni domashni\visual studio 2013\Projects\Solution3\3.Categorize\bin\Debug\3.Categorize.exe.config
+D:\softuni domashni\visual studio 2013\Projects\Solution3\3.Categorize\bin\Debug\3.Categorize.exe
+D:\softuni domashni\visual studio 2013\Projects\Solution3\3.Categorize\bin\Debug\3.Categorize.pdb
+D:\softuni domashni\visual studio 2013\Projects\Solution3\3.Categorize\obj\Debug\3.Categorize.exe
+D:\softuni domashni\visual studio 2013\Projects\Solution3\3.Categorize\obj\Debug\3.Categorize.pdb

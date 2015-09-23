@@ -1,0 +1,5 @@
+D:\softuni domashni\visual studio 2013\Projects\Solution3\4.SequencesOfEqualStrings\bin\Debug\4.SequencesOfEqualStrings.exe.config
+D:\softuni domashni\visual studio 2013\Projects\Solution3\4.SequencesOfEqualStrings\bin\Debug\4.SequencesOfEqualStrings.exe
+D:\softuni domashni\visual studio 2013\Projects\Solution3\4.SequencesOfEqualStrings\bin\Debug\4.SequencesOfEqualStrings.pdb
+D:\softuni domashni\visual studio 2013\Projects\Solution3\4.SequencesOfEqualStrings\obj\Debug\4.SequencesOfEqualStrings.exe
+D:\softuni domashni\visual studio 2013\Projects\Solution3\4.SequencesOfEqualStrings\obj\Debug\4.SequencesOfEqualStrings.pdb

@@ -1,0 +1,5 @@
+D:\softuni domashni\visual studio 2013\Projects\Solution3\5.LongestIncreasingSequence\bin\Debug\5.LongestIncreasingSequence.exe.config
+D:\softuni domashni\visual studio 2013\Projects\Solution3\5.LongestIncreasingSequence\bin\Debug\5.LongestIncreasingSequence.exe
+D:\softuni domashni\visual studio 2013\Projects\Solution3\5.LongestIncreasingSequence\bin\Debug\5.LongestIncreasingSequence.pdb
+D:\softuni domashni\visual studio 2013\Projects\Solution3\5.LongestIncreasingSequence\obj\Debug\5.LongestIncreasingSequence.exe
+D:\softuni domashni\visual studio 2013\Projects\Solution3\5.LongestIncreasingSequence\obj\Debug\5.LongestIncreasingSequence.pdb
